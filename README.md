@@ -33,9 +33,6 @@ Installation & Setup
 
 Clone the repository
 
-  git clone https://github.com/ahsanshah4105/Mvvm-Architecture.git
-  cd Mvvm-Architecture
-
 Flutter App
 
 Install Flutter SDK and set up your environment.
@@ -54,6 +51,12 @@ Sync Gradle dependencies.
 Run the app using Run → Run App.
 
 Contribution
+
+Login Credentials:
+login email and password
+
+eve.holt@reqres.in
+cityslicka
 
 Contributions are welcome! Feel free to submit issues and pull requests.
 
