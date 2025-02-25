@@ -27,16 +27,10 @@ This repository contains a **Flutter app** built using the **MVVM (Model-View-Vi
 
 ---
 
-## **📥 Installation & Setup**
-
-### **Flutter App**
-1️⃣ Install **Flutter SDK** and set up your environment.  
-2️⃣ Run:  
-   ```sh
-   flutter pub get
 
 
 
 
-![WhatsApp Image 2025-02-23 at 12 43 18](https://github.com/user-attachments/assets/3f9e8885-669f-4964-8bc0-9742a6fcf16e)
 
+
+![WhatsApp Image 2025-02-23 at 12 43 18](https://github.com/user-attachments/assets/c4f2970b-674a-49fd-b928-46acb51160ac)
