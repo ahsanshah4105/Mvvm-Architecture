@@ -1,64 +1,40 @@
-MVVM Architecture - Flutter 
+# **MVVM Architecture - Flutter**
 
+This repository contains a **Flutter app** built using the **MVVM (Model-View-ViewModel)** architecture. It ensures a **clean code structure, separation of concerns, and improved maintainability**.
 
-This repository contains a Flutter app built using the MVVM (Model-View-ViewModel) architecture. It ensures a clean code structure, separation of concerns, and improved maintainability.
+---
 
-Features
+## **🚀 Features**
+✅ Follows **MVVM Architecture**  
+✅ Uses **Provider** for state management (**Flutter**) / **LiveData & ViewModel** (**Android**)  
+✅ **Clean and scalable** project structure  
+✅ **API integration** with **Retrofit (Android)** / **Dio (Flutter)**  
+✅ **Responsive UI**  
+✅ **Dependency Injection**  
 
-Follows MVVM Architecture
+---
 
-Uses Provider for state management (Flutter) / LiveData & ViewModel (Android)
+## **🛠 Technologies Used**
 
-Clean and scalable project structure
+### **Frontend**
+- **Flutter**: Dart, Provider, Dio  
+- **State Management**: Provider (Flutter), ViewModel + LiveData (Android)  
+- **Networking**: Dio (Flutter), Retrofit (Android)  
+- **UI Design**: Material Design  
 
-API integration with Retrofit (Android) / Dio (Flutter)
+### **Backend & Storage**
+- **Local Database**: SharedPreferences  
 
-Responsive UI
+---
 
-Dependency Injection
+## **📥 Installation & Setup**
 
-Technologies Used
+### **Flutter App**
+1️⃣ Install **Flutter SDK** and set up your environment.  
+2️⃣ Run:  
+   ```sh
+   flutter pub get
 
-Flutter: Dart, Provider, Dio
-
-State Management: Provider (Flutter), ViewModel + LiveData (Android)
-
-Networking: Dio (Flutter), Retrofit (Android)
-
-Local Database: SharedPreferences
-
-UI Design: Material Design
-
-Installation & Setup
-
-Clone the repository
-
-Flutter App
-
-Install Flutter SDK and set up your environment.
-
-Run flutter pub get to install dependencies.
-
-Run the app using:
-
-flutter run
-
-
-Open the project in Android Studio.
-
-Sync Gradle dependencies.
-
-Run the app using Run → Run App.
-
-Contribution
-
-Login Credentials:
-login email and password
-
-eve.holt@reqres.in
-cityslicka
-
-Contributions are welcome! Feel free to submit issues and pull requests.
 
 
 
