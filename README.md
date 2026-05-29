@@ -568,9 +568,12 @@ This project is open-source and available under the [MIT License](LICENSE).
 
 I build production-grade Flutter apps with clean architecture, solid state management, and polished UIs — delivered on time for clients across Android and iOS.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/ahsan-ali-shah-895aa4283/)
-[![Fiverr](https://img.shields.io/badge/Fiverr-Hire%20Me-1DBF73?style=flat&logo=fiverr&logoColor=white)]([https://www.fiverr.com/s/m51PEoZ](https://www.fiverr.com/sellers/ahsanshahkazm/edit))
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=flat&logo=github)](https://github.com/ahsanshah4105)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ahsan%20Ali%20Shah-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ahsanalishah4105)
+
+[![Fiverr](https://img.shields.io/badge/Fiverr-Work%20With%20Me-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](https://www.fiverr.com/ahsanshahkazm)
+
+[![GitHub](https://img.shields.io/badge/GitHub-ahsanshah4105-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ahsanshah4105)
 
 ---
 
